@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoMate</string>
+    <string name="power_on">Power On</string>
+    <string name="power_off">Power Off</string>
+</resources>

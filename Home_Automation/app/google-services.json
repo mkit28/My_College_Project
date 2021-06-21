@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200935033400",
+    "firebase_url": "https://automation-1772c-default-rtdb.firebaseio.com",
+    "project_id": "automation-1772c",
+    "storage_bucket": "automation-1772c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200935033400:android:693ea37a07811f7288b4cd",
+        "android_client_info": {
+          "package_name": "com.example.waterleveltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200935033400-sdu8kvch7c1mbmarv1f6s57c7igkf0l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLO_vzQ9zg4izCI3vgPt6V7L21R-v6xeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200935033400-sdu8kvch7c1mbmarv1f6s57c7igkf0l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
